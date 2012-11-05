@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  brand: MyString
+  name: MyString
+  ski_type: MyString
+  gender: MyString
+  description: MyText
+  rocker_type: MyString
+  ability_level: MyString
+  model_year: 1
+  store_id: 1
+
+two:
+  brand: MyString
+  name: MyString
+  ski_type: MyString
+  gender: MyString
+  description: MyText
+  rocker_type: MyString
+  ability_level: MyString
+  model_year: 1
+  store_id: 1
